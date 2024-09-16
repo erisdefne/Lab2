@@ -20,6 +20,7 @@ public class DataTypesTest {
         // saying "Integer number too large".
         // Note: You can use _ to help make it easier to
         //       read large numbers, as is done below.
+        // 10 9 8 7 6 5 4 3 2 1
         long x = 500_000_500_000L;
         List<Integer> lst = new ArrayList<>();
         for (int i = 1; i <= 1_000_000; i++) {
